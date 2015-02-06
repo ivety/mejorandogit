@@ -1,6 +1,6 @@
 body
 {
- background: rgb(81, 158, 94);
+ background: rgb(55, 111, 65);
  font-size: 16px;
 }
 
@@ -11,14 +11,20 @@ a
 
 ul
 {
-  margin: 20% 0 0% 0%;
+  margin: 10% 0 0% 0%;
 }
 
 ul li
 {
   list-style: none;
 }
-
+ul li img
+{
+  width: 18%;
+  list-style: none;
+  display: block;
+  margin: 0 auto;
+}
 ul li a
 {
  text-decoration: none; 
@@ -26,9 +32,9 @@ ul li a
 
 ul li a p
 {
-  width: 75%;
+  width: 55%;
   list-style-type: none;
-  background: #E94016;
+  background: #376F41;
   border-bottom: solid thin white;
   padding: .3em 1em .3em;
   text-decoration: none;
